@@ -15,9 +15,16 @@ The primary goal of this method is to safely inject the rootkit DLL. It employs 
 ## Demo
 >> UM Rootkit
 >> 
+https://github.com/user-attachments/assets/81bbc907-dbd9-4f55-9688-f775993bfac6
 
 >> AV/EDR Evasion
 >> 
+https://github.com/user-attachments/assets/b4529432-1f00-4a29-9062-739598a88126
+
+## How?
+
+![rellic-kit](https://github.com/user-attachments/assets/181bebf5-66d1-4c53-8b2e-534d1e1dece1)
+
 
 ## Contributing
 
