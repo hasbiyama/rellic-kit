@@ -23,7 +23,7 @@ https://github.com/user-attachments/assets/b4529432-1f00-4a29-9062-739598a88126
 
 ## How?
 
-![rellic-kit](https://github.com/user-attachments/assets/181bebf5-66d1-4c53-8b2e-534d1e1dece1)
+![rellic-kit](https://github.com/user-attachments/assets/f37c3369-c3f0-42bb-a4a2-2aa5d59a8039)
 
 
 ## Contributing
